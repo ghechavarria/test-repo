@@ -6,7 +6,7 @@ punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
 
 #Program to sort alphabetically the words from a string provided by the user
-my_str = "Hello, World. How are you?"
+my_str = "Hello, World. How are you??"
 
 #https://pastebin.com/9xcTchz4
 #remove punctuation
